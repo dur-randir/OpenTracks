@@ -62,6 +62,15 @@ public class ShareUtils {
             mime = uriAndMime.second;
         }
 
+        if (uris.size() == 1) {
+            return new Intent(Intent.ACTION_SEND)
+                    .setType(mime)
+                    .putExtra(Intent.EXTRA_STREAM, uris.get(0))
+                    .addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION)
+                    .putExtra(Intent.EXTRA_SUBJECT, context.getString(R.string.share_track_subject))
+                    .putExtra(Intent.EXTRA_TEXT, context.getString(R.string.share_track_share_file_body, trackDescription));
+        }
+
         return new Intent(Intent.ACTION_SEND_MULTIPLE)
                 .setType(mime)
                 .putParcelableArrayListExtra(Intent.EXTRA_STREAM, uris)
