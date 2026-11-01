@@ -39,6 +39,9 @@ _OpenTracks_ is a sport tracking application that completely respects your priva
         </td>
     </tr>
 </table>
+Signing key for reproducible build:
+
+de.dennisguse.opentracks.playstore 87:2C:78:45:63:77:3B:3D:76:9E:C3:4C:EA:C4:E3:8F:1A:2F:15:EF:8E:D4:4A:61:21:4C:6D:9D:11:C8:8A:9B
 
 Translations are hosted on <a href="https://translate.codeberg.org/engage/opentracks/">translate.codeberg.org/projects/opentracks/</a>.
 <a href="https://translate.codeberg.org/engage/opentracks/">
