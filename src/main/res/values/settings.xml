@@ -215,6 +215,7 @@
         <item>900</item>
         <item>1800</item>
         <item>3600</item>
+        <item>7200</item>
     </string-array>
     <string name="voice_announcement_distance_key" translatable="false">voiceDistance</string>
     <string name="voice_announcement_distance_default" translatable="false">@string/announcement_off</string>
