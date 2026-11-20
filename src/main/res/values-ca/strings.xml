@@ -320,4 +320,5 @@ limitations under the License.
     <string name="help_track_map_title">Com mostrar una pista en un mapa\?</string>
     <string name="about_version_code">Codi de versió: %1$d</string>
     <string name="about_third_party_data">Dades de tercers</string>
+    <string name="vibrate_on_event_title">Vibra en cada esdeveniment</string>
 </resources>

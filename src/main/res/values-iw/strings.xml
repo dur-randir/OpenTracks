@@ -255,4 +255,5 @@
     <string name="waypoint_type_waypoint">ציון דרך</string>
     <string name="about_preference_title">על אודות</string>
     <string name="about_libraries">ספריות</string>
+    <string name="vibrate_on_event_title">רטט באירוע</string>
 </resources>

@@ -411,6 +411,7 @@
     <string name="voiceSecondsPlural">{n, ಬಹುವಚನ, =1 {1 ಸೆಕೆಂಡ್} ಇತರ {{n,ಸಂಖ್ಯೆ} ಸೆಕೆಂಡುಗಳು}}</string>
     <string name="voiceSpeedMilesPerHourPlural">{n, ಬಹುವಚನ, =1 {1 ಮೈಲಿ ಪ್ರತಿ ಗಂಟೆಗೆ} ಇತರೆ {{n,ಸಂಖ್ಯೆ,#.0} ಮೈಲಿ ಪ್ರತಿ ಗಂಟೆಗೆ} }</string>
     <string name="voice_on_device_speaker_title">ಸಾಧನದ ಸ್ಪೀಕರ್ ಬಳಸಿ</string>
+    <string name="vibrate_on_event_title">ಘಟನೆಯಾದಾಗ ಕಂಪಿಸು</string>
     <string name="voice_per_kilometer">ಪ್ರತಿ ಕಿಲೋಮೀಟರ್</string>
     <string name="voice_per_mile">ಪ್ರತಿ ಮೈಲಿಗೆ</string>
     <string name="voice_per_nautical_mile">ಪ್ರತಿ ನಾಟಿಕಲ್ ಮೈಲಿಗೆ</string>

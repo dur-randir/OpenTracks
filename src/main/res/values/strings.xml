@@ -586,6 +586,7 @@ limitations under the License.
         }
     </string>
     <string name="voice_on_device_speaker_title">Use the device\'s speaker</string>
+    <string name="vibrate_on_event_title">Vibrate on event</string>
     <string name="voice_per_kilometer">per kilometer</string>
     <string name="voice_per_mile">per mile</string>
     <string name="voice_per_nautical_mile">per nautical mile</string>

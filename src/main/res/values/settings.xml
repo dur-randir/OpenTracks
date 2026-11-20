@@ -243,6 +243,8 @@
     </string-array>
     <string name="voice_on_device_speaker_key" translatable="false">voiceOnDeviceSpeaker</string>
     <bool name="voice_on_device_speaker_default" translatable="false">true</bool>
+    <string name="vibrate_on_event_key" translatable="false">vibrateOnEvent</string>
+    <bool name="vibrate_on_event_default" translatable="false">false</bool>
     <string name="voice_announce_idle_key" translatable="false">voice_announce_idle_key</string>
     <bool name="voice_announce_idle_default" translatable="false">false</bool>
 

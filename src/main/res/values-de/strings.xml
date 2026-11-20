@@ -566,6 +566,7 @@ Meldet das GPS-Gerät ungenaue Daten (z.B. Standort, Geschwindigkeit, Höhe), ka
     <string name="settings_stats_units_nautical">Nautisches Maß (NM, ft)</string>
     <string name="unit_minute_per_nautical_mile">min/NM</string>
     <string name="voice_on_device_speaker_title">Verwende den Lautsprecher des Gerätes</string>
+    <string name="vibrate_on_event_title">Bei Ereignis vibrieren</string>
     <string name="unit_knots">kn</string>
     <string name="voice_per_nautical_mile">pro nautische Meile</string>
     <string name="show_on_dashboard">OpenTracks Dashboard API</string>

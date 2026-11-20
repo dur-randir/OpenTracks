@@ -549,6 +549,7 @@
     <string name="voiceSpeedMKnotsPlural">{n, plural, =1 {1 nudo} otro {{n,número} nudos}}</string>
     <string name="voiceSpeed">{n, plural, =1 {1} otro {{n,número,#.0}} }</string>
     <string name="voice_on_device_speaker_title">Usar el altavoz del dispositivo</string>
+    <string name="vibrate_on_event_title">Vibrar en cada evento</string>
     <string name="voice_per_nautical_mile">por milla náutica</string>
     <string name="voiceDistanceKilometersPlural">{n, plural, =1 {1 kilómetro} otro {{n,número,#.0} kilómetros} }</string>
     <string name="voiceDistanceMilesPlural">{n, plural, =1 {1 milla} otro {{n,número,#.0} millas} }</string>

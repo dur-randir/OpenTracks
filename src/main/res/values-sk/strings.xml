@@ -485,4 +485,5 @@ limitations under the License.
     <string name="generic_skip">Vynechať</string>
     <string name="generic_open_track">Otvorená trať</string>
     <string name="no_compatible_file_manager_installed">Nie je nainštalovaný žiadny kompatibilný správca súborov</string>
+    <string name="vibrate_on_event_title">Vibrovať pri udalosti</string>
 </resources>

@@ -403,6 +403,7 @@ limitations under the License.
     <string name="settings_public_api_enabled_summary_on">Druge instalirane aplikacije mogu pokrenuti ili prekinuti snimanja.</string>
     <string name="help_track_export_title">Kako mogu izvesti/dijeliti snimljene rute\?</string>
     <string name="voice_on_device_speaker_title">Koristi zvučnik uređaja</string>
+    <string name="vibrate_on_event_title">Vibriraj pri događaju</string>
     <string name="generic_today">Danas</string>
     <string name="marker_add_photo_canceled">Prekinuto, nije dodana nijedna oznaka za slike</string>
     <string name="value_float_kilometer_hour">%1$.1f km/h</string>

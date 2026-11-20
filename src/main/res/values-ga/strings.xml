@@ -527,6 +527,7 @@
     <string name="voiceSpeedMilesPerHourPlural">{n, plural, =1 {1 mhíle san uair} other {{ n,number, #.0} míle san uair} }</string>
     <string name="voiceSpeed">{n, plural, =1 {1} other {{ n,number, #.0}} }</string>
     <string name="voice_on_device_speaker_title">Úsáid cainteoir an ghléis</string>
+    <string name="vibrate_on_event_title">Creathadh ar theagmhas</string>
     <string name="no_compatible_gallery_installed">Níl feidhmchlár gailearaí íomhá comhoiriúnach suiteáilte</string>
     <string name="settings_recording_location_distance_summary">%1$s idir suíomhanna taifeadta</string>
     <string name="settings_announcements_lap_power">Cumhacht glúine</string>

@@ -332,4 +332,5 @@ limitations under the License.
     <string name="menu_export_all_one_file">すべてエクスポート（全てのトラックを1つのファイルに）</string>
     <string name="menu_select_layout">レイアウトを選択</string>
     <string name="permission_gps_failed">OpenTracksはGPSにアクセスする権限が必要です。</string>
+    <string name="vibrate_on_event_title">イベント時に振動</string>
 </resources>

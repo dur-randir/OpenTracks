@@ -585,4 +585,5 @@ limitations under the License.
     <string name="show_on_dashboard">API panelu OpenTracks</string>
     <string name="marker_detail_title">%1$d z %2$d: %3$s</string>
     <string name="voice_on_device_speaker_title">Użyj wbudowanego głośnika</string>
+    <string name="vibrate_on_event_title">Wibruj przy zdarzeniu</string>
 </resources>

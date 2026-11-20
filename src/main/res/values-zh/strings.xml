@@ -569,6 +569,7 @@ limitations under the License.
     <string name="track_speed_notification">速度：%1$s</string>
     <string name="settings_stats_units_imperial_meter">英制（英里、米）</string>
     <string name="voice_on_device_speaker_title">使用设备的扬声器</string>
+    <string name="vibrate_on_event_title">事件发生时振动</string>
     <string name="introduction_osm_dashboard">OpenTracks 本身不提供地图。请安装 OSMDashboard 以在地图上查看您的记录。</string>
     <string name="settings_sensor_bluetooth_service_filter_title">筛选蓝牙设备</string>
     <string name="menu_export_all_one_file">全部导出（所有轨迹合并文件）</string>

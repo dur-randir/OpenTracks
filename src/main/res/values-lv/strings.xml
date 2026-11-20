@@ -415,4 +415,5 @@ limitations under the License.
     <string name="generic_open_track">Atvērtā trase</string>
     <string name="aggregated_stats_empty_message">Ierakstiet savu pirmo dziesmu, lai redzētu apkopoto statistiku</string>
     <string name="bluetooth_disabled">Lūdzu, iespējojiet Bluetooth.</string>
+    <string name="vibrate_on_event_title">Vibrēt notikuma laikā</string>
 </resources>

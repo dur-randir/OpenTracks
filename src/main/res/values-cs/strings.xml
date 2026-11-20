@@ -512,6 +512,7 @@ limitations under the License.
     <string name="error_crash_title">%1$s selhal</string>
     <string name="share_crash_report">Sdílet hlášení o selhání</string>
     <string name="voice_on_device_speaker_title">Použít reproduktor zařízení</string>
+    <string name="vibrate_on_event_title">Vibrovat při události</string>
     <string name="description_pace_nautical">Tempo (min/NM)</string>
     <string name="voice_per_nautical_mile">za námořní míli</string>
     <string name="settings_announcements_average_speed_pace">Průměrná rychlost/tempo</string>

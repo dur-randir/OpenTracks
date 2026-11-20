@@ -527,6 +527,7 @@ Als het GPS-apparaat onnauwkeurige gegevens rapporteert (bijv. locatie, snelheid
     <string name="voice_per_nautical_mile">/NM</string>
     <string name="track_delete_number_of_tracks">%1$d routes</string>
     <string name="voice_on_device_speaker_title">Gebruik toestelspeaker</string>
+    <string name="vibrate_on_event_title">Trillen bij gebeurtenis</string>
     <string name="settings_public_api_package_title">Pakketnaam voor openbare API</string>
     <string name="settings_stats_units_nautical">Nautisch (NM, ft)</string>
     <string name="settings_api_summary">Afstandsbediening en statistieken API voor andere apps</string>

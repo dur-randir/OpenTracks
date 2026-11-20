@@ -317,4 +317,5 @@
     <string name="permission_bluetooth_failed">OpenTracks memerlukan izin untuk menggunakan Bluetooth.</string>
     <string name="permission_recording_failed">OpenTracks memerlukan izin untuk mengakses lokasi Anda serta perangkat terdekat.</string>
     <string name="permission_bluetooth_failed_rejected">Anda harus memberikan akses OpenTracks ke Perangkat Terdekat secara manual dalam pengaturan sistem.</string>
+    <string name="vibrate_on_event_title">Bergetar saat ada peristiwa</string>
 </resources>

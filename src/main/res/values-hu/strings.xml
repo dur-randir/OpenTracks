@@ -522,6 +522,7 @@ limitations under the License.
     <string name="voiceSecondsPlural">{n,number} másodperc</string>
     <string name="voiceSpeedKilometersPerHourPlural">{n,number} kilométer per óra</string>
     <string name="voice_on_device_speaker_title">Az eszköz hangszórójának használata</string>
+    <string name="vibrate_on_event_title">Rezgés eseménykor</string>
     <string name="voiceSpeedMilesPerHourPlural">{n,number,#.0} mérföld per óra</string>
     <string name="voice_per_nautical_mile">tengeri mérföldenként</string>
     <string name="lap_time">Köridő</string>

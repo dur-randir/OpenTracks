@@ -577,6 +577,7 @@ limitations under the License.
     <string name="voiceSpeedMilesPerHourPlural">{n, plural, =1 {1 mil i timer} other {{n,number,#.0} mil i timen} }</string>
     <string name="voiceSpeedMKnotsPlural">{n, plural, =1 {1 knob} other {{n,number,#.0} knob} }</string>
     <string name="voice_on_device_speaker_title">Brug enhedens højttaler</string>
+    <string name="vibrate_on_event_title">Vibrer ved hændelse</string>
     <string name="voice_per_mile">per mil</string>
     <string name="voice_per_nautical_mile">per sømil</string>
     <string name="lap_time">Omgangstid</string>

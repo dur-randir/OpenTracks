@@ -301,4 +301,5 @@ limitations under the License.
     <string name="waypoint_type_waterfall">น้ำตก</string>
     <string name="waypoint_type_water_fountain">น้ำพุ</string>
     <string name="waypoint_type_waypoint">ชี้ทาง</string>
+    <string name="vibrate_on_event_title">สั่นเมื่อมีเหตุการณ์</string>
 </resources>

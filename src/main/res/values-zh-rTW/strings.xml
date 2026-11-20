@@ -552,6 +552,7 @@ limitations under the License.
     <string name="show_on_dashboard_not_installed">未安裝支援 OpenTracks 儀表板 API 的應用程式。</string>
     <string name="introduction_osm_dashboard">OpenTracks 本身不提供地圖功能。請安裝 OSMDashboard，以便在地圖上查看您的記錄。</string>
     <string name="voice_on_device_speaker_title">使用裝置的揚聲器</string>
+    <string name="vibrate_on_event_title">事件發生時震動</string>
     <string name="settings_stats_units_imperial_meter">英制（英里、公尺）</string>
     <string name="menu_export_all_one_file">全部匯出 (所有蹤跡於單一檔案)</string>
     <string name="settings_recording_min_required_accuracy_summary">如果定位的精度大於 %1$s，則它將被忽略</string>

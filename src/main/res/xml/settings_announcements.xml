@@ -9,6 +9,11 @@
         android:key="@string/voice_on_device_speaker_key"
         android:title="@string/voice_on_device_speaker_title" />
 
+    <CheckBoxPreference
+        android:defaultValue="@bool/vibrate_on_event_default"
+        android:key="@string/vibrate_on_event_key"
+        android:title="@string/vibrate_on_event_title" />
+
     <ListPreference
         android:defaultValue="@string/voice_speed_rate_default"
         android:entryValues="@array/voice_speed_rate_values"

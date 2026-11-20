@@ -621,6 +621,7 @@ Si le dispositif GPS signale des données inexactes (par exemple, la localisatio
     <string name="no_compatible_camera_installed">Aucune application pour l\'appareil photo compatible n\'est installée</string>
     <string name="settings_recording_min_required_accuracy_summary">La position est ignoré si sa précision est supérieure à %1$s</string>
     <string name="voice_on_device_speaker_title">Utiliser le haut-parleur de l\'appareil</string>
+    <string name="vibrate_on_event_title">Vibrer lors d\'un événement</string>
     <string name="no_compatible_gallery_installed">Aucune application de galerie d\'images compatible n\'est installée</string>
     <string name="settings_api_summary">API de contrôle et de statistiques pour applications tierces</string>
     <string name="settings_sensor_heart_rate_max">Zones : fréquence cardiaque maximale (bpm)</string>

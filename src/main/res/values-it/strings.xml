@@ -555,6 +555,7 @@ Infatti, un\'applicazione deve supportare <i>ACTION_VIEW</i> con MIME <i>applica
     <string name="settings_ui_dynamic_colors_summary">Utilizza Colori Dinamici definiti dall\'utente (si applica solo ad Android 12+; richiede un riavvio manuale dell\'applicazione)</string>
     <string name="settings_recording_min_required_accuracy_summary">La posizione viene ignorata se l\'accuratezza del segnale è maggiore di %1$s</string>
     <string name="voice_on_device_speaker_title">Utilizza l\'altoparlante dello smartphone</string>
+    <string name="vibrate_on_event_title">Vibra in caso di evento</string>
     <string name="voice_per_nautical_mile">per miglio nautico</string>
     <string name="voiceDistanceNauticalMilesPlural">{n, plural, =1 {un miglio nautico} other {{n,number,#.0} miglia nautiche} }</string>
     <string name="current_heart_rate">Frequenza cardiaca istantanea</string>

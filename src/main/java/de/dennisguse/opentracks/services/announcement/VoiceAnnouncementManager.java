@@ -27,6 +27,7 @@ import androidx.mediarouter.media.MediaRouter;
 
 import java.time.Duration;
 import java.util.List;
+import java.util.function.Supplier;
 
 import de.dennisguse.opentracks.R;
 import de.dennisguse.opentracks.data.ContentProviderUtils;
@@ -90,12 +91,15 @@ public class VoiceAnnouncementManager implements SharedPreferences.OnSharedPrefe
         updateNextTaskDistance();
     }
 
-    private boolean shouldNotAnnounce() {
+    private boolean isShutdown() {
         if (voiceAnnouncement == null) {
             Log.e(TAG, "Cannot update when in status shutdown.");
             return true;
         }
+        return false;
+    }
 
+    private boolean isVoiceSuppressed() {
         if (!PreferencesUtils.shouldVoiceAnnouncementOnDeviceSpeaker()
                 && MediaRouter.getInstance(context)
                 .getSelectedRoute()
@@ -107,8 +111,24 @@ public class VoiceAnnouncementManager implements SharedPreferences.OnSharedPrefe
         return false;
     }
 
+    /**
+     * Vibrates (if enabled) and speaks the announcement (if voice is not suppressed).
+     * Vibration is independent of the audio route.
+     */
+    private void announce(@NonNull Supplier<CharSequence> announcement) {
+        if (PreferencesUtils.shouldVibrateOnEvent()) {
+            AnnouncementVibrator.vibrate(context);
+        }
+
+        if (isVoiceSuppressed()) {
+            return;
+        }
+
+        voiceAnnouncement.speak(announcement.get());
+    }
+
     public void announceIdle() {
-        if (shouldNotAnnounce()) {
+        if (isShutdown()) {
             return;
         }
 
@@ -116,27 +136,27 @@ public class VoiceAnnouncementManager implements SharedPreferences.OnSharedPrefe
             return;
         }
 
-        voiceAnnouncement.speak(VoiceAnnouncementUtils.createIdle(context));
+        announce(() -> VoiceAnnouncementUtils.createIdle(context));
     }
 
     public void announceStatisticsIfNeeded(@NonNull RecordingData data) {
-        if (shouldNotAnnounce()) {
+        if (isShutdown()) {
             return;
         }
 
-        boolean announce = false;
+        boolean shouldAnnounce = false;
         this.trackStatistics = data.trackStatistics();
         if (trackStatistics.totalDistance().greaterThan(nextTotalDistance)) {
             updateNextTaskDistance();
-            announce = true;
+            shouldAnnounce = true;
         }
         if (!trackStatistics.totalDuration().minus(nextTotalTime).isNegative()) {
             updateNextDuration();
-            announce = true;
+            shouldAnnounce = true;
         }
 
-        if (announce) {
-            voiceAnnouncement.speak(createAnnouncement(data));
+        if (shouldAnnounce) {
+            announce(() -> createAnnouncement(data));
         }
     }
 

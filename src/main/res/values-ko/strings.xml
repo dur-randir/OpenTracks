@@ -301,4 +301,5 @@ limitations under the License.
     <string name="waypoint_type_waterfall">폭포</string>
     <string name="waypoint_type_water_fountain">식수대</string>
     <string name="waypoint_type_waypoint">경유지</string>
+    <string name="vibrate_on_event_title">이벤트 발생 시 진동</string>
 </resources>

@@ -477,4 +477,5 @@ limitations under the License.
     <string name="bluetooth_disabled">Omogočite Bluetooth.</string>
     <string name="generic_click_twice_cancel">Če želite preklicati, ponovno kliknite nazaj</string>
     <string name="generic_completed">Zaključeno</string>
+    <string name="vibrate_on_event_title">Vibriraj ob dogodku</string>
 </resources>

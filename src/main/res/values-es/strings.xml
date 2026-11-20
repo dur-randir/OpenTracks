@@ -610,6 +610,7 @@ limitations under the License.
     <string name="settings_sensor_bluetooth_service_filter_title">Filtrar dispositivos Bluetooth</string>
     <string name="settings_sensor_bluetooth_service_filter_off">Mostrar todos los dispositivos Bluetooth detectados</string>
     <string name="voice_on_device_speaker_title">Utiliza el altavoz del dispositivo</string>
+    <string name="vibrate_on_event_title">Vibrar en cada evento</string>
     <string name="menu_export_all_one_file">Exportar todo (un archivo para todas las pistas)</string>
     <string name="settings_announcements_idle_category_title">Anuncios inactivos</string>
     <string name="sensor_state_power_max">Potencia máxima</string>

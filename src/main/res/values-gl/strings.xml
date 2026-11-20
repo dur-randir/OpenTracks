@@ -536,6 +536,7 @@ limitations under the License.
     <string name="settings_sensor_heart_rate_max">Zonas: Pulso máximo (lpm)</string>
     <string name="settings_api_summary">Control remoto e API de estatísticas para outras apps</string>
     <string name="voice_on_device_speaker_title">Usar o altofalante do dispositivo</string>
+    <string name="vibrate_on_event_title">Vibrar en cada evento</string>
     <string name="menu_export_all_one_file">Exportar todo (un ficheiro con todas as rutas)</string>
     <string name="no_compatible_gallery_installed">Non hai unha aplicación de galería compatible dispoñible</string>
     <string name="settings_recording_min_required_accuracy_summary">Ignórase a localización se a exactitude é maior de %1$s</string>

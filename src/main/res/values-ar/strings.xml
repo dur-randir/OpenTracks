@@ -443,6 +443,7 @@ limitations under the License.
     <string name="help_support_title">كيف يمكنني دعم المسارات المفتوحة؟</string>
     <string name="help_storage_pictures_content">تُخزن هذه الصور في التخزين الداخلي للتطبيق (أي يمكن الوصول إليها فقط داخل المسارات المفتوحة).</string>
     <string name="voice_on_device_speaker_title">استخدام مكبر صوت الجهاز</string>
+    <string name="vibrate_on_event_title">الاهتزاز عند الحدث</string>
     <string name="settings_cycling_sensor">ركوب الدراجة</string>
     <string name="share_image_body">أعتقد أنك قد تكون مهتمًا بهذه الصورة.</string>
     <string name="voiceHoursPlural">{n, plural, =1 {ساعة واحدة} other {{n,number} ساعات} }</string>

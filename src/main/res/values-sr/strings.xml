@@ -325,4 +325,5 @@ limitations under the License.
     <string name="help_track_export_title">Kako ja mogu da izvezem/podelim sačuvand podatke\?</string>
     <string name="about_preference_title">O OtvorenimPraćenjima</string>
     <string name="help_storage_pictures_content">Oni su sačuvani u aplikaciji u internoj memoriji (samo pristupnoj bez OtvorenihPraćenja).</string>
+    <string name="vibrate_on_event_title">Вибрирај при догађају</string>
 </resources>

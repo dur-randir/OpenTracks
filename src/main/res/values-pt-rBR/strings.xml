@@ -554,6 +554,7 @@
     <string name="voiceSpeedMKnotsPlural">{n, plural, =1 {1 nó} other {{n,number,#.0} nós} }</string>
     <string name="voiceSpeed">{n, plural, =1 {1} other {{n,number,#.0}} }</string>
     <string name="voice_on_device_speaker_title">Use o alto-falante do dispositivo</string>
+    <string name="vibrate_on_event_title">Vibrar em cada evento</string>
     <string name="voiceDistanceKilometersPlural">{n, plural, =1 {1 quilômetro} other {{n,number,#.0} quilômetros} }</string>
     <string name="voiceDistanceMilesPlural">{n, plural, =1 {1 milha} other {{n,number,#.0} milhas} }</string>
     <string name="voiceDistanceNauticalMilesPlural">{n, plural, =1 {1 milha náutica} other {{n,number,#.0} milhas náuticas} }</string>

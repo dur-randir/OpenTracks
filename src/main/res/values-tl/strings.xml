@@ -308,4 +308,5 @@ limitations under the License.
     <string name="about_version_code">Code ng bersyon: %1$d</string>
     <string name="about_version_name">Pangalan ng bersyon: %1$s</string>
     <string name="about_preference_title">Tungkol Sa OpenTracks</string>
+    <string name="vibrate_on_event_title">Mag-vibrate kapag may event</string>
 </resources>

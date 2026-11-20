@@ -527,6 +527,7 @@ limitations under the License.
     <string name="average_heart_rate">Середній пульс</string>
     <string name="voice_per_mile">за милю</string>
     <string name="voice_on_device_speaker_title">Використовувати динамік пристрою</string>
+    <string name="vibrate_on_event_title">Вібрація під час події</string>
     <string name="lap_time">Час за коло</string>
     <string name="unit_minute_per_nautical_mile">хв/морську милю</string>
     <string name="no_compatible_camera_installed">Не встановлено сумісну програму камери</string>

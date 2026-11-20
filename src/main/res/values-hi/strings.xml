@@ -301,4 +301,5 @@ limitations under the License.
     <string name="waypoint_type_waterfall">झरना</string>
     <string name="waypoint_type_water_fountain">जल का फव्वारा</string>
     <string name="waypoint_type_waypoint">वेपॉइंट</string>
+    <string name="vibrate_on_event_title">घटना पर कंपन करें</string>
 </resources>

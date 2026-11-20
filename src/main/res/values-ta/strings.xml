@@ -410,6 +410,7 @@
     <string name="voiceSpeedMilesPerHourPlural">{n, plural, = 1 {1 mile per hour} other {{n,number,#. 0} ஒரு மணி நேரத்திற்கு மைல்கள்}}</string>
     <string name="voiceSpeed">{n, plural, = 1 {1} other {{n,number,#. 0}}}</string>
     <string name="voice_on_device_speaker_title">சாதனத்தின் ச்பீக்கரைப் பயன்படுத்தவும்</string>
+    <string name="vibrate_on_event_title">நிகழ்வின்போது அதிர்வு</string>
     <string name="voice_per_kilometer">ஒரு கிலோமீட்டருக்கு</string>
     <string name="voice_per_nautical_mile">ஒரு கடல் மைலுக்கு</string>
     <string name="lap_time">மடியில் நேரம்</string>

@@ -302,4 +302,5 @@ limitations under the License.
     <string name="waypoint_type_waterfall">air terjun</string>
     <string name="waypoint_type_water_fountain">air pancut</string>
     <string name="waypoint_type_waypoint">titik laluan</string>
+    <string name="vibrate_on_event_title">Bergetar semasa peristiwa</string>
 </resources>

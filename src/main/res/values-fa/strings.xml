@@ -301,4 +301,5 @@ limitations under the License.
     <string name="waypoint_type_waterfall">آبشار</string>
     <string name="waypoint_type_water_fountain">چشمه آب</string>
     <string name="waypoint_type_waypoint">ایستگاه بین‌ راه</string>
+    <string name="vibrate_on_event_title">لرزش هنگام رویداد</string>
 </resources>

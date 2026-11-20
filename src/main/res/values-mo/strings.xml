@@ -253,4 +253,5 @@
     <string name="waypoint_type_waterfall">cascadă</string>
     <string name="waypoint_type_water_fountain">fântână arteziană</string>
     <string name="waypoint_type_waypoint">punct de traseu</string>
+    <string name="vibrate_on_event_title">Vibrează la eveniment</string>
 </resources>

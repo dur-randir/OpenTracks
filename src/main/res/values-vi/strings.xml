@@ -554,6 +554,7 @@ limitations under the License.
     <string name="voiceDistanceMilesPlural">{n, số nhiều, =1 {1 dặm} khác {{n,số,#.0} dặm} }</string>
     <string name="voiceSpeedKilometersPerHourPlural">{n, số nhiều, =1 {1 kilômet trên giờ} khác {{n, số,#.0} kilômet trên giờ} }</string>
     <string name="voice_on_device_speaker_title">Sử dụng loa của thiết bị</string>
+    <string name="vibrate_on_event_title">Rung khi có sự kiện</string>
     <string name="settings_ui_dynamic_colors_title">Màu sắc linh động</string>
     <string name="settings_sensor_heart_rate_max">Vùng: Nhịp tim tối đa (bpm)</string>
     <string name="settings_recording_title">Đang ghi</string>

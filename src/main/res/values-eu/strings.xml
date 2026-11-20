@@ -501,4 +501,5 @@ GPS gailuak datu okerrak salatzen baditu (adibidez, kokapena, abiadura, kota), O
     <string name="field_set_primary">Nagusia</string>
     <string name="generic_undo">Desegin</string>
     <string name="no_compatible_file_manager_installed">Fitxategi-kudeatzaile bateragarririk ez da instalatu</string>
+    <string name="vibrate_on_event_title">Bibratu gertaera bakoitzean</string>
 </resources>

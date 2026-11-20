@@ -527,6 +527,7 @@ limitations under the License.
     <string name="help_data_google_play_services_content">Ei</string>
     <string name="settings_public_api_package_title">Julkisen API:n paketin nimi</string>
     <string name="voice_on_device_speaker_title">Käytä laitteen kaiutinta</string>
+    <string name="vibrate_on_event_title">Värise tapahtuman yhteydessä</string>
     <string name="settings_announcements_average_heart_rate">Keskimääräinen syke</string>
     <string name="description_pace_nautical">Tahti (min/NM)</string>
     <string name="settings_stats_units_nautical">Merenkulku (NM, ft)</string>

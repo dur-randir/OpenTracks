@@ -431,4 +431,5 @@ limitations under the License.
     <string name="activity_type_escooter">skoter</string>
     <string name="stats_split_interval">Delat intervall</string>
     <string name="settings_sensor_running_speed_and_cadence">Löpning: distans, hastighet och kadens</string>
+    <string name="vibrate_on_event_title">Vibrera vid händelse</string>
 </resources>

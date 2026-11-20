@@ -527,6 +527,7 @@ limitations under the License.
     <string name="settings_sensor_heart_rate_max">Soner: maksimum puls (slag/min)</string>
     <string name="settings_api_summary">Fjernkontroll- og statistikk-API for andre programmer</string>
     <string name="voice_on_device_speaker_title">Bruk enhetens høyttaler</string>
+    <string name="vibrate_on_event_title">Vibrer ved hendelse</string>
     <string name="menu_export_all_one_file">Eksporter alle (en fil for alle spor)</string>
     <string name="settings_recording_min_required_accuracy_summary">Posisjonen ignoreres hvis nøyaktigheten er over %1$s</string>
     <string name="no_compatible_gallery_installed">Ingen kompatibel bildegalleri-app installert</string>

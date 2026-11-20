@@ -606,4 +606,5 @@ limitations under the License.
     <string name="share_crash_report">Compartilhar relatório de falha</string>
     <string name="show_on_dashboard_not_installed">Nenhuma aplicação compatível com o painel API do OpenTracks instalado.</string>
     <string name="introduction_osm_dashboard">O próprio OpenTracks não fornece um mapa. Instale o OSMDashboard para visualizar as suas gravações num mapa.</string>
+    <string name="vibrate_on_event_title">Vibrar em cada evento</string>
 </resources>

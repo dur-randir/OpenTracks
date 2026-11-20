@@ -437,4 +437,5 @@ limitations under the License.
     <string name="settings_sensor_bluetooth_service_filter_title">Φιλτράτισμα Συσκευών Bluetooth</string>
     <string name="settings_sensor_wheel_circumference">Περιφέρεια Ρόδας (mm)</string>
     <string name="settings_public_api_dashboard_enabled_title">Αυτόματη μεταφορά δεδομένων</string>
+    <string name="vibrate_on_event_title">Δόνηση σε συμβάν</string>
 </resources>

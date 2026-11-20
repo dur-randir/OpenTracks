@@ -343,6 +343,7 @@
     <string name="voiceSpeedMilesPerHourPlural">{n, plural, =1 {1 mile à l’ora} other {{n,number,#.0} mile à l’ora} }</string>
     <string name="voiceSpeed">{n, plural, =1 {1} other {{n,number,#.0}} }</string>
     <string name="voice_on_device_speaker_title">Impiegà u spachjasonu di l’apparechju</string>
+    <string name="vibrate_on_event_title">Vibrà à ogni avvenimentu</string>
     <string name="voice_per_kilometer">à u chilometru</string>
     <string name="voice_per_nautical_mile">à u mile nauticu</string>
     <string name="pace">Andatura</string>

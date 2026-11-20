@@ -512,6 +512,7 @@ limitations under the License.
     <string name="voice_per_mile">miili kohta</string>
     <string name="voice_per_kilometer">kilomeetri kohta</string>
     <string name="voice_on_device_speaker_title">Kasuta nutiseadme kõlarit</string>
+    <string name="vibrate_on_event_title">Vibreeri sündmuse korral</string>
     <string name="lap_speed">Ringi kiirus</string>
     <string name="speed">Keskmine liikumiskiirus</string>
     <string name="total_distance">Vahemaa kokku</string>

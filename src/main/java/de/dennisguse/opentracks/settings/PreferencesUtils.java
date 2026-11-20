@@ -337,6 +337,11 @@ public class PreferencesUtils {
         return getBoolean(R.string.voice_on_device_speaker_key, DEFAULT);
     }
 
+    public static boolean shouldVibrateOnEvent() {
+        final boolean DEFAULT = resources.getBoolean(R.bool.vibrate_on_event_default);
+        return getBoolean(R.string.vibrate_on_event_key, DEFAULT);
+    }
+
     public static boolean shouldVoiceAnnouncementIdle() {
         return getBoolean(R.string.voice_announce_idle_key, true);
     }

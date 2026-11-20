@@ -554,6 +554,7 @@ limitations under the License.
     <string name="voiceDistanceMilesPlural">{n, plural, =1 {1 миля} few {{n,number,#.0} миль} other {{n,number,#.0} мили} }</string>
     <string name="voiceSpeedKilometersPerHourPlural">{n, plural, =1 {1 километр в час} few {{n,number} километра в час} other {{n,number} километров в час} }</string>
     <string name="voice_on_device_speaker_title">Использовать динамик устройства</string>
+    <string name="vibrate_on_event_title">Вибрация при событии</string>
     <string name="settings_ui_dynamic_colors_title">Динамические цвета</string>
     <string name="settings_sensor_heart_rate_max">Зоны: макс. пульс (уд/мин)</string>
     <string name="settings_recording_title">Настройки записи</string>

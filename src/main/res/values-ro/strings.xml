@@ -479,4 +479,5 @@ limitations under the License.
     <string name="permission_recording_failed">OpenTracks are nevoie de permisiunea de a accesa locația și dispozitivele în apropiere.</string>
     <string name="permission_bluetooth_failed">OpenTracks necesită permisiunea de a utiliza Bluetooth.</string>
     <string name="permission_bluetooth_failed_rejected">Îți trebuie să permiți OpenTracks pentru a accesa la Dispozitive din Apropriere în setările sistemului.</string>
+    <string name="vibrate_on_event_title">Vibrează la eveniment</string>
 </resources>
